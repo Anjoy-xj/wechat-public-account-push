@@ -56,13 +56,13 @@ export const config = {
     {
       name: "自己", 
       id: "o8rcm6gAu2oGHY0DLnRGXE9pLjmY",
-      useTemplateId: "ir1MZfEdvAKfqv7adHC6Uzz51Yn8cDSROav8Ran_-_k",
+      useTemplateId: "95FwpGkjpraekumAXiQi3OLzW_7FJJAN896NDhqVtw8",
       openUrl: "https://baidu.com"
     }, 
     {
       name: "老婆3",
       id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
-      useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
+      useTemplateId: "95FwpGkjpraekumAXiQi3OLzW_7FJJAN896NDhqVtw8",
       openUrl: "https://weibo.com"
     }, 
   ],
