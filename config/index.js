@@ -54,8 +54,8 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
+      name: "自己", 
+      id: "o8rcm6gAu2oGHY0DLnRGXE9pLjmY",
       useTemplateId: "ir1MZfEdvAKfqv7adHC6Uzz51Yn8cDSROav8Ran_-_k",
       openUrl: "https://baidu.com"
     }, 
