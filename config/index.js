@@ -61,9 +61,9 @@ export const config = {
     }, 
     {
       name: "老婆3",
-      id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
+      id: "o8rcm6se8fpLy-tdEyj-Ga2v8mN0",
       useTemplateId: "95FwpGkjpraekumAXiQi3OLzW_7FJJAN896NDhqVtw8",
-      openUrl: "https://weibo.com"
+      openUrl: "https://baidu.com"
     }, 
   ],
 
